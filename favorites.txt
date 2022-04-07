@@ -1,3 +1,10 @@
+foods:
 burger
 panner
 misal
+
+movies:
+avengers
+kung fu panda
+demon slayer
+
